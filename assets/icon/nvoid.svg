@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733334 67.733334"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="nvoid.svg"
+   inkscape:export-filename="nvoid.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.2854657"
+     inkscape:cx="269.21602"
+     inkscape:cy="125.40079"
+     inkscape:window-width="1251"
+     inkscape:window-height="674"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="49.003707"
+       y="34.698277"
+       width="119.92212"
+       height="65.135362"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect1"
+       width="67.73333"
+       height="67.73333"
+       x="-0.16106291"
+       y="-0.080531456" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'NDOT 45 (inspired by NOTHING)';-inkscape-font-specification:'NDOT 45 (inspired by NOTHING)';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;fill:#ffffff;stroke-width:0.264583"
+       x="33.866665"
+       y="33.866665"
+       id="text3"
+       transform="translate(4.3486985,27.504683)"><tspan
+         id="tspan3"
+         style="font-size:50.8px;text-align:center;direction:ltr;text-anchor:middle;stroke-width:0.264583"
+         x="33.866665"
+         y="33.866665">=</tspan></text>
+  </g>
+</svg>
